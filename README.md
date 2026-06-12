@@ -108,18 +108,3 @@ screenshots/
 Passionate about Web Development and continuously learning new technologies to build modern and responsive web applications.
 
 ---
-
-## 🤝 Connect With Me
-
-- LinkedIn: Add Your LinkedIn Profile
-- GitHub: https://github.com/Yash210307
-
----
-
-<div align="center">
-
-### ⭐ If you found this project helpful, please consider giving it a star!
-
-Made with ❤️ using HTML, CSS & Bootstrap 5
-
-</div>
